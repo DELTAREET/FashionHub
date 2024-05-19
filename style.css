@@ -112,6 +112,12 @@ body {
     background-size: cover;
     background-position: top 25% right 0;
 }
+
+#feature {
+    display: flex;
+    width: 135px;
+    height: 150px ;
+}
 /* Shop Page */
 /* Single Product */
 /* Blog Page */
